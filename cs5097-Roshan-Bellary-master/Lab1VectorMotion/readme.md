@@ -1,0 +1,4 @@
+Discussion:
+1. There are a few different ways of approaching this. One of the method is by Lerping in the direction of the direction vector and another way is manually calculating the distance away from the initial position every frame using Time.DeltaTime (which is a metric used to maintain real world time while moving in a 3D space). These can be easily used in the equation r = r0 + tv, where r0 is the initial position, t is the time and the v is the velocity or direction.
+
+2. I have used the Vector math library because it is a class and much easier to maintian, access and manipulate the values. The libraries also contains very optimized implementations of Dot product, vector product, Euclidian Distance and many other.

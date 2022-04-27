@@ -1,0 +1,11 @@
+R:\Roshan\Northeastern - GitHub\cs5097-Roshan-Bellary\Lab1VectorMotion\bin\Debug\netcoreapp2.1\Lab1VectorMotion.deps.json
+R:\Roshan\Northeastern - GitHub\cs5097-Roshan-Bellary\Lab1VectorMotion\bin\Debug\netcoreapp2.1\Lab1VectorMotion.runtimeconfig.json
+R:\Roshan\Northeastern - GitHub\cs5097-Roshan-Bellary\Lab1VectorMotion\bin\Debug\netcoreapp2.1\Lab1VectorMotion.runtimeconfig.dev.json
+R:\Roshan\Northeastern - GitHub\cs5097-Roshan-Bellary\Lab1VectorMotion\bin\Debug\netcoreapp2.1\Lab1VectorMotion.dll
+R:\Roshan\Northeastern - GitHub\cs5097-Roshan-Bellary\Lab1VectorMotion\bin\Debug\netcoreapp2.1\Lab1VectorMotion.pdb
+R:\Roshan\Northeastern - GitHub\cs5097-Roshan-Bellary\Lab1VectorMotion\obj\Debug\netcoreapp2.1\Lab1VectorMotion.csprojAssemblyReference.cache
+R:\Roshan\Northeastern - GitHub\cs5097-Roshan-Bellary\Lab1VectorMotion\obj\Debug\netcoreapp2.1\Lab1VectorMotion.csproj.CoreCompileInputs.cache
+R:\Roshan\Northeastern - GitHub\cs5097-Roshan-Bellary\Lab1VectorMotion\obj\Debug\netcoreapp2.1\Lab1VectorMotion.AssemblyInfoInputs.cache
+R:\Roshan\Northeastern - GitHub\cs5097-Roshan-Bellary\Lab1VectorMotion\obj\Debug\netcoreapp2.1\Lab1VectorMotion.AssemblyInfo.cs
+R:\Roshan\Northeastern - GitHub\cs5097-Roshan-Bellary\Lab1VectorMotion\obj\Debug\netcoreapp2.1\Lab1VectorMotion.dll
+R:\Roshan\Northeastern - GitHub\cs5097-Roshan-Bellary\Lab1VectorMotion\obj\Debug\netcoreapp2.1\Lab1VectorMotion.pdb
